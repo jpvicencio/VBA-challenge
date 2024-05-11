@@ -1,5 +1,5 @@
-# VBA_challenge
-VBA exercise
+# VBA-challenge
+
 	1. Define variables
 		Set Q1 as target worksheet
 	2. Create a summary table with Ticker, Quarterly Change, Percentage Change, Total Stock Volume
