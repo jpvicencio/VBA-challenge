@@ -23,4 +23,4 @@
 	  Make the necessary edits after variables, to loop through each worksheet
 		  Read worksheets from left with 'Q'
 
-	Sources: Learning Assistant, ChatGPT
+	References: Xpert Learning Assistant, ChatGPT, CoPilot, previous homeworks
